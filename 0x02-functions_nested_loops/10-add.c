@@ -1,11 +1,16 @@
 #include "main.h"
+11;rgb:0000/0000/0000#include <stdio.h>
+
 /**
-* add - add the values of a and b
-* @a: an integer
-* @b: another integer
-* Return: the value of a + b
-*/
-int add(int a, int b)
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
 {
-return (a + b);
+int n;
+
+n = add(89, 9);
+printf("%d\n", n);
+return (0);
 }
