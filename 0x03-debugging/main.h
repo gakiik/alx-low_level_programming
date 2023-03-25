@@ -5,4 +5,5 @@
 
 void positive_or_negative(int i);
 void largest(int a, int b, int c);
+int _isupper(int c);
 #endif /* MAIN_H */
