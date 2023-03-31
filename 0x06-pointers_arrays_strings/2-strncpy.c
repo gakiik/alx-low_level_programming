@@ -22,6 +22,7 @@ dest[destcounter] = src[destcounter];
 }
 
 for (; destcounter < n; destcounter++)
+{
 dest[destcounter] = 0;
 }
 
